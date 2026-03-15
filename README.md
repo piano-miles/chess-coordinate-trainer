@@ -1,10 +1,10 @@
 # Chess Coordinate Trainer
 
-Train your chess coordinate notation recognition.
+Train your chess coordinate notation recognition ([git.mileswaugh.com/chess-coordinate-trainer](https://git.mileswaugh.com/chess-coordinate-trainer/)).
 
 ## Overview
 
-In chess, coordinate notation describes every square on the board using a combination of a file (column) and a rank (row). The purpose of this site is to train the rapid recognition of chess coordinates. I will first explain how to use this project for training, and then I will provide an introduction to chess notation for those unfamiliar with it.
+In chess, coordinate notation describes every square on the board using a combination of a file (column) and a rank (row). The purpose of this site is to train the rapid recognition of chess coordinates. I will first explain how to use this for training, and then I will provide an introduction to chess notation for those unfamiliar with it.
 
 ## Instructions
 

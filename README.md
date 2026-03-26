@@ -1,6 +1,6 @@
 # Chess Coordinate Trainer
 
-Train your chess coordinate notation recognition ([git.mileswaugh.com/chess-coordinate-trainer](https://git.mileswaugh.com/chess-coordinate-trainer/)).
+Train your chess coordinate notation recognition ([git.mileswaugh.com/chess-coordinate-trainer](https://projects.mileswaugh.com/chess-coordinate-trainer/)).
 
 ## Overview
 
